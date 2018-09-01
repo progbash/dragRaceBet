@@ -1,0 +1,10 @@
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\bin\Debug\dragRaceBet.exe.config
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\bin\Debug\dragRaceBet.exe
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\bin\Debug\dragRaceBet.pdb
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.csprojResolveAssemblyReference.cache
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.Form1.resources
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.Properties.Resources.resources
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.csproj.GenerateResource.cache
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.csproj.CoreCompileInputs.cache
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.exe
+C:\Users\TexnoUSTA\source\repos\dragRaceBet\dragRaceBet\obj\Debug\dragRaceBet.pdb
